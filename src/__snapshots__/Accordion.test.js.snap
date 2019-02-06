@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the menus as expected 1`] = `
+<ul
+  className="menus"
+>
+  <li
+    id={0}
+  >
+    <button
+      onClick={[Function]}
+    >
+      section 1
+    </button>
+  </li>
+</ul>
+`;
