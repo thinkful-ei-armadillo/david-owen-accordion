@@ -1,9 +1,11 @@
 import React from 'react';
+import {sections} from './sections';
+import Accordion from './Accordion';
 
 function App() {
   return (
     <main className='App'>
-      {/* content goes here */}
+     <Accordion sections={sections} />
     </main>
   );
 }
